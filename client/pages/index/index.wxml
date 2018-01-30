@@ -56,4 +56,7 @@
             <text>快速增加 CGI</text>
         </navigator>
     </view>
+    <view class="demofirst">
+        <text>第一个demo页面</text>
+    </view>
 </view>
