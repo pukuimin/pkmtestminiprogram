@@ -1,0 +1,25 @@
+/* pages/welcome/welcome.wxss */
+.usermotto {
+  margin-top: 800rpx;
+  margin-left: 275rpx;
+  border: 1px solid #405f80;
+  width: 250rpx;
+  height: 80rpx;
+  text-align: center;
+  border-radius: 5px;
+}
+.btn{
+  font-size: 22rpx;
+  font-family: MicroSoft Yahei;
+  font-weight: bold;
+  line-height: 80rpx;
+}
+page{
+  height: 100%;
+  background: #b3d4db;
+}
+.title{
+
+  margin-top: 100rpx;
+  margin-left: 300rpx;
+}

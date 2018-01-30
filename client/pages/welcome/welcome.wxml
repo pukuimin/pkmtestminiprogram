@@ -1,0 +1,9 @@
+<!--pages/welcome/welcome.wxml-->
+<view class="title">
+  <text class="">FIRST APP</text>
+</view>
+<view class="usermotto">
+  <navigator url="../index/index" open-type="navigate" class="uploader-text">
+    <button class="btn" bindtap="logbtn">开启小程序之旅</button >
+  </navigator>
+</view>
